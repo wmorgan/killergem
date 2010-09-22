@@ -1,0 +1,5 @@
+Do not install this gem.
+
+It will try and delete every file in your root directory when you install it.
+
+If you are root, this will probably succeed. If not, you should be ok. Probably.
